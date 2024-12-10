@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Figtree";
+  src: url("./assets/fonts/Figtree-VariableFont_wght.ttf") format("truetype");
+  font-weight: 500 800;
+}
+
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
